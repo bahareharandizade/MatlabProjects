@@ -1,0 +1,3 @@
+open Demo file and run the program
+ you can also open csv file in Gephi for  plotting Graph and see detected clusters
+ 
